@@ -1,1 +1,2 @@
-# Week1Project
+# JViniX/COMP229-Week01-Example
+ 
